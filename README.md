@@ -1,4 +1,4 @@
-# Streamlytic--AI
+# Streamlytic-AI
 Steamlytic-AI is a chatbot powered by the ChatGPT API for the GPT 3.5 Turbo model released by OpenAI.
 This bot has been hosted on the server using the Streamlit library in Python.
 
